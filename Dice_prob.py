@@ -8,7 +8,7 @@ for i in range(10000):
     sum1=0
     count=0
 
-    while sum1<6:
+    while sum1<7:
         sum1=sum1+random.choice(L1)
         count=count+1
     L2.append(count)
